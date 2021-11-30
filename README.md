@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sahithi03B
+- 👋 Hi, I’m Satya Sahithi Baddi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on programming 
